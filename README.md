@@ -2,14 +2,14 @@
 
 author:   Sebastian Zug & André Dietrich
 email:    zug@ovgu.de   & andre.dietrich@ovgu.de
-version:  1.1.6
+version:  0.0.2
 language: de
 narrator: Deutsch Female
 
 import:   https://github.com/liascript/CodeRunner
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Cross-Lab-Project/presentations/main/HDF_CommunityGroup_2022/CWG_Presentation.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/CampusTag/main/README.md#1)
 
 # Vorlesung Campustag 2023
 

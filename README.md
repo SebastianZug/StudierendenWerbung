@@ -2,14 +2,14 @@
 
 author:   Sebastian Zug & André Dietrich
 email:    zug@ovgu.de   & andre.dietrich@ovgu.de
-version:  1.1.6
+version:  0.0.3
 language: de
 narrator: Deutsch Female
 
 import:   https://github.com/liascript/CodeRunner
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Cross-Lab-Project/presentations/main/HDF_CommunityGroup_2022/CWG_Presentation.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/CampusTag/main/README.md#1)
 
 # Vorlesung Campustag 2023
 
@@ -18,11 +18,11 @@ import:   https://github.com/liascript/CodeRunner
 
  ![Welcome](images/qr_code.png)<!-- style="width: 15%" -->
 
--------------------------
+------------------------------
 
-Prof. Dr. Sebastian Zug, Technische Universität Bergakademie Freiberg   
+Prof. Dr. Sebastian Zug, Technische Universität Bergakademie Freiberg
 
----------------------------
+------------------------------
 
 
 ## Vorlesungen
@@ -45,7 +45,6 @@ for i in range(count):
 @LIA.eval(`["main.py"]`, `none`, `python3 main.py`)
 
 </details>
-
 
 <details>
 

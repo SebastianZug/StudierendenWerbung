@@ -16,23 +16,22 @@ import:   https://github.com/liascript/CodeRunner
 
 <div style="width: 46%; float: left">
 
-<h2>
-Wie brauchbar sind generelle Erklärungen zum Unibetrieb?
-</h2>
+## Wie brauchbar sind generelle Erklärungen zum Unibetrieb?
+
 oder
-<h2>
-Intentionen und Innvoation im universitären Lehrbetrieb
-</h2>
 
-</div>
-
-![Welcome](images/WorkingDesk.jpg)<!-- style="width: 45%; float: right" -->
+## Intentionen und Innvoation im universitären Lehrbetrieb
 
 ------------------------------
 
 Prof. Dr. Sebastian Zug, Technische Universität Bergakademie Freiberg
 
 ------------------------------
+
+</div>
+
+![Welcome](images/WorkingDesk.jpg)<!-- style="width: 45%; float: right" -->
+
 
 ## Ausgangspunkt
 
@@ -59,7 +58,8 @@ for i in range(count):
 ```
 @LIA.eval(`["main.py"]`, `none`, `python3 main.py`)
 
-??[](https://github.com/TUBAF-IfI-LiaScript)
+
+[![github screenshot](images/github-screenshot.png)<!-- style="width:100%" -->](https://github.com/TUBAF-IfI-LiaScript)
 
 Extraaufgaben
 

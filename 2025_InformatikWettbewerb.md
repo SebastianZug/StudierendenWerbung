@@ -1,6 +1,6 @@
 <!--
 
-author:   Sebastian Zug & André Dietrich
+author:   Sebastian Zug & André Dietrich - TU Bergakademie Freiberg
 email:    zug@ovgu.de   & andre.dietrich@ovgu.de
 version:  0.0.3
 language: de
@@ -9,9 +9,9 @@ narrator: Deutsch Female
 import:   https://github.com/liascript/CodeRunner
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/CampusTag/main/README.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/StudierendenWerbung/refs/heads/main/2025_InformatikWettbewerb.md)
 
-# Sächsiche Informatik-Wettbewerb 2025
+# Sächsischer Informatikwettbewerb 2025
 
 |      |      |
 | ![Welcome](images/WorkingDesk.jpg)<!-- style="width: 100%" -->     | <h2> Bergbau & Informatik? </h2>  oder    <h2> Innovative Formate der IT-Wissensvermittlung an der TU
@@ -32,10 +32,10 @@ Freiberg </h2>                                |
 + Professur für Künstliche Intelligenz und Datenbanken
 + Professur für Softwaretechnologie und Robotik
 
-> Die Forschungsaktivitäten zielen neben eigenen Schwerpunkten insbesondere auf Softwarlösungen für interdisziplinäre Forschungsprojekte ab, die in der Regel in Kooperation mit anderen Instituten der TUBAF oder externen Partnern durchgeführt werden.
+> Die Forschungsaktivitäten zielen neben eigenen Schwerpunkten insbesondere auf Softwarelösungen für interdisziplinäre Forschungsprojekte ab, die in der Regel in Kooperation mit anderen Instituten der TUBAF oder externen Partnern durchgeführt werden.
 
 ![Husky](images/Husky_on_tour.png "Autonomer Roboter der Arbeitsgruppe")
-![Husky](images/Schwimmroboter.png "TUBAF Schwimmroboter mit Windmessungsaufsatz")
+![Schwimmroboter](images/Schwimmroboter.png "TUBAF Schwimmroboter mit Windmessungsaufsatz")
 ![](https://tu-freiberg.de/sites/default/files/styles/large/public/2023-11/undromeda_cave.jpg?itok=wblHRnDX "Cave - Virtuelle Realität")
 
 ## Innovative Lehre
@@ -52,7 +52,7 @@ Freiberg </h2>                                |
 >
 > (Quelle: https://www.studieren.at/uni-abc/vorlesung/)
 
-> __TUBAF:__ "Vorlesungen werden Lernrziel orientiert gestaltet und bieten den Studierenden die Möglichkeit, aktiv am Lehrprozess teilzunehmen. Die Vorlesungen sind interaktiv und fördern den Austausch zwischen Studierenden und Dozenten."
+> __TUBAF:__ "Vorlesungen werden Lernziel orientiert gestaltet und bieten den Studierenden die Möglichkeit, aktiv am Lehrprozess teilzunehmen. Die Vorlesungen sind interaktiv und fördern den Austausch zwischen Studierenden und Dozenten."
 
 
 <details>
@@ -112,6 +112,8 @@ In der Vorlesung werden die Extraaufgaben als praktische Beiträge der Studieren
 <details>
 <summary>**"Remote-Labore"**</summary>
 
+[Remote Labor Beispiel - Einführungsveranstaltung](https://edrys-labs.github.io/?/classroom/1Sjgqpq8CaIKAsJh)
+
 ![edrys_example](https://github.com/Cross-Lab-Project/presentations/blob/main/HDF_CommunityGroup_2022/Screenshot.png?raw=true "Resultierendes Edrys Labor")
 
 </details>
@@ -161,11 +163,8 @@ Die Informatik der TUBAF ist ...
 
 ------------------------
 
-Prof. Dr. Sebastian Zug
+__[Prof. Dr. Sebastian Zug](mailto:sebastian.zug@informatik.tu-freiberg.de?subject=Studium%20Informatik%20TUBAF), Institut für Informatik, Technische Universität Bergakademie Freiberg__
 
-Institut für Informatik
-
-Technische Universität Bergakademie Freiberg 
-
+![](./images/qr_code_InformatikWettbewerb.png "Link auf diese Präsentation")<!-- style="width: 300px" -->
 
 *************************************************
